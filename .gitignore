@@ -1,0 +1,4 @@
+trilha-gcp-terraform/.terraform.lock.hcl
+trilha-gcp-terraform/serviceaccount.yaml
+*.tfstate
+*.backup
